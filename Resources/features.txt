@@ -1,1 +1,6 @@
-Add project Features here:
+DeFi Marketplace Features:
+✅ Minting NFTs & Tokens
+✅ Buying & Selling (Marketplace)
+✅ Staking & Rewards
+✅ Token Swaps
+✅ Lending & Borrowing
